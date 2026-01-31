@@ -1,0 +1,7 @@
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Схематичное изображение импланта">
+  <rect width="640" height="360" fill="#f3f6fb"/>
+  <rect x="90" y="120" width="460" height="120" rx="60" fill="#dfe7f1"/>
+  <circle cx="200" cy="180" r="32" fill="#c2d0e0"/>
+  <circle cx="440" cy="180" r="32" fill="#c2d0e0"/>
+  <rect x="260" y="160" width="120" height="40" rx="20" fill="#b7c4d4"/>
+</svg>
