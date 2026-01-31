@@ -1,0 +1,7 @@
+<svg width="600" height="720" viewBox="0 0 600 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Портрет врача">
+  <rect width="600" height="720" fill="#eef2f7"/>
+  <circle cx="300" cy="240" r="120" fill="#cfd8e3"/>
+  <rect x="150" y="360" width="300" height="240" rx="80" fill="#d7e0ea"/>
+  <rect x="180" y="420" width="240" height="40" rx="20" fill="#b7c4d4"/>
+  <rect x="210" y="480" width="180" height="28" rx="14" fill="#b7c4d4"/>
+</svg>
